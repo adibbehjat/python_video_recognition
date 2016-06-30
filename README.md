@@ -1,5 +1,8 @@
 # Video Recognition with Python OpenCV
 
+## Steps to make the code work (Documentation)
+https://github.com/adibbehjat/python_video_recognition/blob/master/Documentation.pdf
+
 ## Steps to make the code work (the TL;DR verison)
 
 Note: This thing requires Python...
