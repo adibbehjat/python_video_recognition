@@ -1,6 +1,6 @@
 # Video Recognition with Python OpenCV
 
-## Steps to make the code work
+## Steps to make the code work (the TL;DR verison)
 
 Note: This thing requires Python...
 
