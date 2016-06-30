@@ -14,8 +14,8 @@ Note: This thing requires Python...
 your_favorite_directory/
 ├── faces/
 ├── openCV Directory/
-│   ├── bootstrap.js
-│   └── bootstrap.min.js
+│   └── data/
+│       └── haarcascade/
 └── video_detection.py
 └── Admin_Square.svg
 ```
